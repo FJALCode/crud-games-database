@@ -28,6 +28,7 @@ CREATE TABLE games
     image character varying,
     created_at timestamp with time zone DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (id)
+)
 ```
 
 
